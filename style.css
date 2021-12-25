@@ -11,9 +11,14 @@ h1{
     font-size: 18px;
     
 }
+
 h2{
     font-size: 18px;
     font-weight: normal;
     color: yellow;
 }
 
+p{
+    margin: 5px 0;
+    line-height: 30px;
+}
