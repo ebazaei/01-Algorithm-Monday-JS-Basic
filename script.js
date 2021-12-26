@@ -14,7 +14,7 @@ for(var i=1;i<=35;i = i+2){
     document.getElementById("box2").innerHTML += `Odd Number: ${i} <br/>`;
 }
 
-//3 Print 1 - 135
+//3 Sum of Printed Numbers
 let sum = 0;
 for(var i=0; i<=35 ; i++ ){
     //Show in browser console
@@ -47,6 +47,7 @@ for(var i=0; i < X.length ; i++){
         var min = X[i];
     }
 }
+
 //Show in browser console
 console.log(max);console.log(min);
 //Show in HTML
